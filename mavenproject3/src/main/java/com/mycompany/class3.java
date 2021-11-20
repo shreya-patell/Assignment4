@@ -10,7 +10,6 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.SwingUtilities;
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
-
 /**
  *
  * @author shreyapatel
